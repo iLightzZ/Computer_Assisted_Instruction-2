@@ -1,5 +1,3 @@
-#C04-14
-
 #Computer-Assisted Instructions (CAI)
 import random
 
